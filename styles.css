@@ -1,1 +1,44 @@
 /* Write your CSS here! */
+/* selector {
+    declaration block
+} */
+
+  .row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 33.33%;
+    padding: 5px;
+  }
+
+  body {
+    margin: 8px;
+  }
+
+  #mainHeading {
+    color: red;
+  }
+
+  .funParagraph {
+    color: green;
+  }
+
+  p {
+    margin: 15px 25px 15px;
+  }
+
+  p {
+    text-align: justify;
+    text-justify: inter-word;
+  }
+
+  main {
+    padding: 5px 10px 5px;
+  }
+
+  p {
+    font-family: calibri;
+  }
+
+  h1 {text-align: center;}
